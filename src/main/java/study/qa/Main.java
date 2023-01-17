@@ -72,7 +72,6 @@ public class Main {
         // операции с переменными
         // сначала выполняются операции в скобках, затем выводится в консоль
         // численное значение плюс строка = строка
-        System.out.println(varInt2 + " + " + varDouble2 + " = " + (varInt2 + varDouble2));
         System.out.println(varInt2 + " - " + varLong2 + " = " + (varInt2 - varLong2));
         System.out.println(varByte2 + " / " + varFloat2 + " = " + (varByte2 / varFloat2));
         System.out.println(varByte2 + " % " + varShort2 + " = " + (varByte2 % varShort2));
